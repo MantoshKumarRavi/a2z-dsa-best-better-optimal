@@ -1,0 +1,14 @@
+clone & status 
+
+clone -> cloning  from github
+git clone + link
+cd -- change directory
+ls -a  see all file 
+ git status
+
+untracted , modified , staged, unmodified 
+
+add - add n satgin area
+commit 
+git add filre name
+git add .   for all file
